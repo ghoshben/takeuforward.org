@@ -1,2 +1,2 @@
-# takeuforward.org
-takeuforward.org python solution
+
+solution to takeuforward.org sde sheet's python solutions
